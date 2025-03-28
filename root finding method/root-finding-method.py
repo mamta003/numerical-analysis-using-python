@@ -40,11 +40,11 @@ from datetime import datetime
 
 # ## Newton Raphson
 
-# '''the difference in the use of library change the number of iteration required for the results.
-# Lambdify library considers the integer value of the derivative which reduces the number 
-# of iterations
-#  whereas subs command takes float value to find accurate results, increasing 
-#  the number of iterations.'''
+'''the difference in the use of library change the number of iteration required for the results.
+Lambdify library considers the integer value of the derivative which reduces the number 
+of iterations
+ whereas subs command takes float value to find accurate results, increasing 
+ the number of iterations.'''
 
 # x0=int(input('enter initial value:\n'))
 # z=int(input('enter tolerance:\n'))
